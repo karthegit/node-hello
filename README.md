@@ -1,5 +1,5 @@
 # node-hello
-A simple Hello world node js application
+A simple Hello World node js application
 
 
 # Running the app
